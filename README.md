@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello! 👋
+
+- 🌙 She/Her
+
+- 📌 I'm currently learning frontend Web Development
+
+- 📌 Ask me about anything!
+
+- 📫 How to reach me: visit my [Portfolio](https://kephan.myportfolio.com/)
+
+
+
 
 <!--
 **ephan95/ephan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
